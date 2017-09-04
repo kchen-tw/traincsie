@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+footer {
+    padding: 30px;
+    height: 80px;
+}
+
+.tab-content {
+    padding-top: 30px;
+}
